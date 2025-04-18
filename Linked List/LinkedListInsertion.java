@@ -25,6 +25,7 @@ class Main{
             }
             n--;
         }
+        //Traversal Or Iteration
         temp=head;
         while(temp!=null){
             System.out.println(temp.data);
