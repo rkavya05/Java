@@ -1,4 +1,5 @@
 //https://www.geeksforgeeks.org/problems/stack-using-two-queues/1
+
 class Queues {
     Queue<Integer> q1 = new LinkedList<Integer>();
     Queue<Integer> q2 = new LinkedList<Integer>();
